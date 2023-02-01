@@ -8,26 +8,31 @@
 6. Run ‘npm audit fix’
 7. Run ‘npm start’
 8. Open chrome and you can see the project running on ‘http://localhost:3000/’
-<img width="1680" alt="Screenshot 2023-01-26 at 11 24 52 PM" src="https://user-images.githubusercontent.com/44410651/215983757-77725af4-378b-4543-98ee-f60ff5fab99b.png">
+
 
 # "SpaceX Dummy Capsules" demo image
 
-- <p align="center">
+ <p align="center">
     <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.24.52%20PM.png">
   </p>
-- <p align="center">
+
+ <p align="center">
     <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.25.00%20PM.png">
   </p>
-- <p align="center">
+
+ <p align="center">
     <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.25.08%20PM.png">
   </p>
-- <p align="center">
+
+ <p align="center">
     <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.25.21%20PM.png">
   </p>
--  <p align="center">
+
+  <p align="center">
     <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.25.52%20PM.png">
   </p>
-- <p align="center">
+
+ <p align="center">
     <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.26.05%20PM.png">
   </p>
 
