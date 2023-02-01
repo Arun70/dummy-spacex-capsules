@@ -35,6 +35,12 @@
  <p align="center">
     <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.26.05%20PM.png">
   </p>
+  
+ # "SpaceX Dummy Capsules" demo video
+
+https://user-images.githubusercontent.com/44410651/215987947-3eedf017-6430-4e5c-aa6c-90b48900016b.mp4
+
+
 
 <!-- # Getting Started with Create React App
 
