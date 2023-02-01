@@ -1,4 +1,4 @@
-Steps to run the project: 
+# Steps to run the project: 
 
 1. Unzip the tar file.
 2. Go to  ‘space-x-dummy-proj’.
@@ -8,6 +8,27 @@ Steps to run the project:
 6. Run ‘npm audit fix’
 7. Run ‘npm start’
 8. Open chrome and you can see the project running on ‘http://localhost:3000/’
+
+# "SpaceX Dummy Capsules" demo image
+
+- <p align="center">
+    <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.24.52%20PM.png">
+  </p>
+- <p align="center">
+    <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.25.00%20PM.png">
+  </p>
+- <p align="center">
+    <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.25.08%20PM.png">
+  </p>
+- <p align="center">
+    <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.25.21%20PM.png">
+  </p>
+-  <p align="center">
+    <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.25.52%20PM.png">
+  </p>
+- <p align="center">
+    <img src="https://github.com/Arun70/dummy-spacex-capsules/blob/main/public/Screenshot%202023-01-26%20at%2011.26.05%20PM.png">
+  </p>
 
 <!-- # Getting Started with Create React App
 
