@@ -8,6 +8,7 @@
 6. Run ‘npm audit fix’
 7. Run ‘npm start’
 8. Open chrome and you can see the project running on ‘http://localhost:3000/’
+<img width="1680" alt="Screenshot 2023-01-26 at 11 24 52 PM" src="https://user-images.githubusercontent.com/44410651/215983757-77725af4-378b-4543-98ee-f60ff5fab99b.png">
 
 # "SpaceX Dummy Capsules" demo image
 
